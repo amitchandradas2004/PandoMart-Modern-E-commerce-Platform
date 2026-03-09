@@ -18,6 +18,13 @@
       href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
       rel="stylesheet"
     />
+    <!-- daisy  -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/daisyui@5"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   </head>
   <style>
     .poppins {
@@ -31,5 +38,56 @@
       font-style: normal;
     }
   </style>
-  <body></body>
+  <body class="">
+    <header class="bg-gray-100">
+      <nav class="flex justify-between items-center container mx-auto px-2 md:px-0">
+        <div>
+          <div class="drawer">
+            <input id="my-drawer-2" type="checkbox" class="drawer-toggle" />
+            <div class="drawer-content flex flex-col">
+              <!-- Navbar -->
+              <div class="navbar w-full">
+                <div class="flex-none lg:hidden">
+                  <label
+                    for="my-drawer-2"
+                    aria-label="open sidebar"
+                    class="btn btn-square btn-ghost"
+                  >
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      class="inline-block h-6 w-6 stroke-current"
+                    >
+                      <path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        d="M4 6h16M4 12h16M4 18h16"
+                      ></path>
+                    </svg>
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="drawer-side">
+              <label
+                for="my-drawer-2"
+                aria-label="close sidebar"
+                class="drawer-overlay"
+              ></label>
+              <ul class="menu bg-base-200 min-h-full w-80 p-4">
+                <!-- Sidebar content here -->
+                <li><a>Sidebar Item 1</a></li>
+                <li><a>Sidebar Item 2</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div>
+          <img src="./assets/logo.png" alt="" class="w-20" />
+        </div>
+      </nav>
+    </header>
+  </body>
 </html>
