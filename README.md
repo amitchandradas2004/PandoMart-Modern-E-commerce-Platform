@@ -23,7 +23,7 @@ A modern and visually appealing e-commerce landing page designed to showcase pro
 
 ---
 
-## 📸 [Live Preview]()
+## 📸 [Live Preview](https://amitchandradas2004.github.io/Goods-Panda/)
 
 ---
 
