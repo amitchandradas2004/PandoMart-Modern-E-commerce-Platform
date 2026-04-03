@@ -204,21 +204,25 @@
           <h2 class="text-[30px] font-bold">LET'S STAY IN TOUCH</h2>
           <p>Get updates on sales specials and more</p>
           <div class="flex justify-center">
-            <div>
+            <form action="">
               <input
-                type="text"
-                placeholder="Enter your email"
+                id="sendinput"
+                type="email"
                 class="outline-none h-full bg-white border-none px-5 rounded-l-md"
+                placeholder="Enter your email"
               />
-            </div>
-            <div><button class="btn btn-secondary">Send</button></div>
+              <button type="submit" id="sendbtn" class="btn btn-secondary">
+                Submit
+              </button>
+            </form>
           </div>
         </div>
       </footer>
     </main>
 
     <!-- Scripts -->
-    <script src="./shoes.js"></script>
-    <script src="./bags.js"></script>
+    <script src="./scripts/bags.js"></script>
+    <script src="./scripts/shoes.js"></script>
+    <script src="./scripts/send.js"></script>
   </body>
 </html>

@@ -1,15 +1,15 @@
-const bags = () => {
-  fetch("./bags.json")
+const shoes = () => {
+  fetch("./files/shoes.json")
     .then((res) => res.json())
     .then((values) =>
       values.forEach((value) => {
         // console.log(value);
         //  1: Get the container and empty the container
-        const bagsContainer = document.getElementById("bags-container");
+        const shoesContainer = document.getElementById("shoes-container");
         // console.log(bagsContainer);
         // 2: Create the element
-        const bagCard = document.createElement("div");
-        bagCard.innerHTML = ` <div
+        const shoeCard = document.createElement("div");
+        shoeCard.innerHTML = ` <div
             class="space-y-2 bg-white p-5 rounded-3xl shadow-md shadow-pink-300 h-full"
           >
             <img src="${value.Image}" alt=" ${value.title}" class="mx-auto" />
@@ -27,10 +27,10 @@ const bags = () => {
             </div>
           </div>`;
         // Append the element
-        bagsContainer.append(bagCard);
+        shoesContainer.append(shoeCard);
       }),
     )
     .catch((error) => console.error(error));
 };
 
-bags();
+shoes();
