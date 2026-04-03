@@ -1,6 +1,10 @@
-# 🛍️ Panda E-commerce UI
+# 🛍️ PandoMart – Modern E-commerce Platform
 
-A modern and visually appealing e-commerce landing page designed to showcase products like shoes, bags, and electronics.
+A modern and visually appealing e-commerce landing page designed to showcase products like shoes, bags etc.
+
+---
+
+## 📸 [Live Preview](https://amitchandradas2004.github.io/PandoMart-Modern-E-commerce-Platform/)
 
 ---
 
@@ -8,7 +12,7 @@ A modern and visually appealing e-commerce landing page designed to showcase pro
 
 - Responsive design for all devices 📱💻
 - Hero section with promotional banner 🎯
-- Product categories (Watch, Bag, Shoes)
+- Product categories (Bag, Shoes)
 - Product cards with pricing and CTA buttons 🛒
 - Newsletter subscription section 📩
 - Clean and minimal UI ✨
@@ -19,11 +23,8 @@ A modern and visually appealing e-commerce landing page designed to showcase pro
 
 - HTML5
 - Tailwind CSS
+- Daisy UI
 - JavaScript (Bags and  Shoes are added dynamically)
-
----
-
-## 📸 [Live Preview](https://amitchandradas2004.github.io/Goods-Panda/)
 
 ---
 
@@ -32,9 +33,9 @@ A modern and visually appealing e-commerce landing page designed to showcase pro
 - Backend integration (Node.js / Firebase)
 - User authentication system 🔐
 - Payment gateway integration 💳
-- 
+
 ---
- ##🤝 Contributing
+## 🤝 Contributing
 
 ## Contributions are welcome!
 
