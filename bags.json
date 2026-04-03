@@ -1,0 +1,20 @@
+[
+  {
+    "Image": "./assets/bag-1.png",
+    "title": "Reebok Dart Men’s Shoes",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 1289
+  },
+  {
+    "Image": "./assets/bag-2.png",
+    "title": "Biaowang Backpack",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 799
+  },
+  {
+    "Image": "./assets/bag-3.png",
+    "title": "Dxyizu WS54 Smart",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 699
+  }
+]

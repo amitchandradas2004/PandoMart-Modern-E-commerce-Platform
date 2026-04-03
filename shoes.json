@@ -1,0 +1,20 @@
+[
+  {
+    "Image": "./assets/shoe-1.png",
+    "title": "Reebok Dart Men’s Shoes",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 1289
+  },
+  {
+    "Image": "./assets/shoe-2.png",
+    "title": "Reebok Pump",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 799
+  },
+  {
+    "Image": "./assets/shoe-3.png",
+    "title": "Reebok All Terrain",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 699
+  }
+]
