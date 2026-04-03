@@ -16,5 +16,41 @@
     "title": "Reebok All Terrain",
     "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
     "price": 699
+  },
+  {
+    "Image": "./assets/shoe-2.png",
+    "title": "Reebok All Terrain",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 699
+  },
+  {
+    "Image": "./assets/shoe-3.png",
+    "title": "Reebok All Terrain",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 699
+  },
+  {
+    "Image": "./assets/shoe-1.png",
+    "title": "Reebok All Terrain",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 699
+  },
+  {
+    "Image": "./assets/shoe-3.png",
+    "title": "Reebok All Terrain",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 699
+  },
+  {
+    "Image": "./assets/shoe-1.png",
+    "title": "Reebok All Terrain",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 699
+  },
+  {
+    "Image": "./assets/shoe-2.png",
+    "title": "Reebok All Terrain",
+    "info": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint",
+    "price": 699
   }
 ]
